@@ -1,0 +1,29 @@
+# osx noise
+.DS_Store
+.profile
+
+# symfony
+cache
+log
+symfony
+web/sf
+web/uploads
+data/backup
+
+# xcode noise
+build/*
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+
+# svn & cvs
+.svn
+CVS
+
+# ignore sensitive logins
+sftp-config.json
