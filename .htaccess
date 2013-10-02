@@ -1,0 +1,6 @@
+Options -Indexes -MultiViews
+
+RewriteEngine On
+RewriteBase /timm/
+RewriteRule ^en$ ?lang=en [R,L]
+RewriteRule ^de$ ?lang=de [R,L]
