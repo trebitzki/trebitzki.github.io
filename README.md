@@ -1,4 +1,5 @@
 # Personal Page of Timm Rebitzki
+Just a short intro inspired by an article in c't magazine.
 
 ### Source:
 Ihre beste Seite  
